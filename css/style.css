@@ -698,14 +698,14 @@ footer .bottom_area{
 	float:left;
 }
 
-.bottom_right ul li a{
-	background:#ffcc00;
+.ion-icon{
+	
 	color:#fff;
 	font-size:30px;
 	padding:30px;
 	transition:all 0.5s;}
 
-.bottom_right ul li a:hover{color:#666;}
+.ion-icon:hover{color:#666;}
 
 .bottom_bottom{
 	clear:both;	
