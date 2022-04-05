@@ -679,12 +679,12 @@ footer .bottom_area{
 }
 
 .bottom_right{
-
+	
 	float:left;
 	margin-top:70px;
 	padding-left:80px;
 	color: #fff;
-	
+
 }
 
 .bottom_right p{
@@ -699,6 +699,7 @@ footer .bottom_area{
 }
 
 .bottom_right ul li a{
+	background:#ffcc00;
 	color:#fff;
 	font-size:30px;
 	padding:30px;
