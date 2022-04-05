@@ -33,7 +33,7 @@ header{
 		rgba(20,20,20,0.25),
 		rgba(20,20,20,0.75),
 		rgba(20,20,20,1),
-		url(../image/avengers-endgame.jpg);
+		url(../image/avengers-endgame.jpg)) ;
 	background-size:cover;
 	-webkit-background-size:cover;  /*크롬,사파리*/
 	-moz-background-size:cover;  /*파이어폭스*/
