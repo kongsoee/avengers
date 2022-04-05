@@ -29,11 +29,8 @@ header{
 	width:100%;
 	height:1200px;
 	position:relative;  /*부모기준설정*/
-	background:linear-gradient(to top,rgba(20,20,20,0),
-		rgba(20,20,20,0.25),
-		rgba(20,20,20,0.75),
-		rgba(20,20,20,1),
-		url(../image/avengers-endgame.jpg)) ;
+	background:
+		url(../image/avengers-endgame.jpg);
 	background-size:cover;
 	-webkit-background-size:cover;  /*크롬,사파리*/
 	-moz-background-size:cover;  /*파이어폭스*/
